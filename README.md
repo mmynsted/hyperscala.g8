@@ -1,6 +1,6 @@
 # A [giter8][1] Template for Creating [Hyperscala][2] Sites
 
-This template defines a structure and dependencies needed to build a simple 
+This template defines a directory structure and dependencies needed to build a simple 
 [Hyperscala][2] site with [ScalaTest][3] testing.
 
 - - - 
