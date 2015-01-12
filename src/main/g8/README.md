@@ -1,6 +1,6 @@
 # $name$
 
-$description$
+$project_description$
 
 
 

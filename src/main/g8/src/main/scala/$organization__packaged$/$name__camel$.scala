@@ -1,4 +1,4 @@
-package $organization$.$name;format="word,lower"$
+package $organization$
 
 object $name;format="Camel"$ {
   

@@ -21,7 +21,7 @@ import Dependencies._
   )
 
   lazy val project = Project (
-    id = "$name$",
+    id = "$name;format="camel"$",
     base = file("."),
     settings = Defaults.defaultSettings ++
     Seq(
