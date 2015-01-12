@@ -27,7 +27,7 @@ import Dependencies._
     Seq(
       version      := "$version$",
       organization := "$organization$",
-      scalaVersion := "$scala-version$",
+      scalaVersion := "$scala_version$",
       scalacOptions ++= scalacFlags,
       resolvers ++= Seq("Sonatype Snapshots" at "https://oss.sonatype.org/content/repositories/snapshots/",
                         "twitter-repo" at "http://maven.twttr.com",
